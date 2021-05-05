@@ -11,6 +11,7 @@
 ## Also there's a rich environment configuration using:
 ### Babel
 ### Webpack
+### SASS
 ### ESLint (todo)
 ### Prettier (todo)
 ### Add Typescript (todo)
